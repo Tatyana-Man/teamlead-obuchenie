@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teamlead-obuchenie.vercel.app/sitemap.xml
